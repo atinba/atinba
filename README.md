@@ -12,7 +12,7 @@ Mostly code cleanup for now
 - [dffef6de4db2ddbf1d456e618d06b128b9d0018b](https://github.com/torvalds/linux/commit/dffef6de4db2ddbf1d456e618d06b128b9d0018b)
 - [c82d4d9353b02bf531ff43654863e7497a1caebe](https://github.com/torvalds/linux/commit/c82d4d9353b02bf531ff43654863e7497a1caebe)
 
-## Languages and Tools:
+## Languages and Tools
 
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
